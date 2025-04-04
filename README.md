@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Mahsan!  
+### Python/Django Developer | Backend Engineer | Building Inshopping
 
-<!--
-**mahsanps/mahsanps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!
 
-Here are some ideas to get you started:
+I'm a backend developer based in Iran, focused on building scalable web applications with Django and creating real-world solutions for businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on: **Inshopping** – a multi-vendor e-commerce platform for Instagram-based shops
+- 🌱 Learning: DevOps and preparing for remote backend roles
+- ✨ Interested in: Software Architecture, Product Development
+- ⚡ Fun fact: I dance salsa and bachata when I'm not coding!
+
+## 🛠 Tech Stack
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Frameworks:** Django, Django REST Framework, Bootstrap
+- **Tools:** Git, Docker, PostgreSQL, AWS (basic familiarity)
+- **Others:** GitHub Actions, Nginx
+
+## 🚀 Featured Projects
+- [Inshopping](https://github.com/mahsanps/inshopping) – A platform for Instagram-based online shops
+- (https://github.com/mahsanps/trader_ai)
+- [More projects coming soon...]
+
+## 📫 Let's connect
+- [LinkedIn](https://www.linkedin.com/in/mahsan-paksima-b2b859ab/) 
+- Email: mahsan.ps@gmail.com
+
+---
+
+Thanks for visiting!
